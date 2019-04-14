@@ -1,0 +1,10 @@
+{
+  "orgName": "New Motion - Bruno Assignment",
+  "edition": "Developer",
+  "features": ["PersonAccounts"],
+  "settings": {
+    "orgPreferenceSettings": {
+      "s1DesktopEnabled": true
+    }
+  }
+}

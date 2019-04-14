@@ -1,0 +1,515 @@
+[
+    [
+        "/Users/brunodiaz/Documents/new-motion/new-motion/force-app",
+        {
+            "sourcePath": "/Users/brunodiaz/Documents/new-motion/new-motion/force-app",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1555053999127,
+            "changeTime": 1555053999127,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/brunodiaz/Documents/new-motion/new-motion/force-app/main",
+        {
+            "sourcePath": "/Users/brunodiaz/Documents/new-motion/new-motion/force-app/main",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1555053999127,
+            "changeTime": 1555053999127,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/brunodiaz/Documents/new-motion/new-motion/force-app/main/default",
+        {
+            "sourcePath": "/Users/brunodiaz/Documents/new-motion/new-motion/force-app/main/default",
+            "isDirectory": true,
+            "size": 352,
+            "modifiedTime": 1555248548176,
+            "changeTime": 1555248548176,
+            "contentHash": "1ba25fb3a609c10dd8af145ee303759a8353724a",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/brunodiaz/Documents/new-motion/new-motion/force-app/main/default/aura",
+        {
+            "sourcePath": "/Users/brunodiaz/Documents/new-motion/new-motion/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 64,
+            "modifiedTime": 1555053999127,
+            "changeTime": 1555053999127,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/brunodiaz/Documents/new-motion/new-motion/force-app/main/default/classes",
+        {
+            "sourcePath": "/Users/brunodiaz/Documents/new-motion/new-motion/force-app/main/default/classes",
+            "isDirectory": true,
+            "size": 256,
+            "modifiedTime": 1555246947726,
+            "changeTime": 1555246947726,
+            "contentHash": "1c56005eb54d0e7f06acf3977d065dcb84c33dce",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/Users/brunodiaz/Documents/new-motion/new-motion/force-app/main/default/classes/OpportunityService.cls",
+        {
+            "sourcePath": "/Users/brunodiaz/Documents/new-motion/new-motion/force-app/main/default/classes/OpportunityService.cls",
+            "isDirectory": false,
+            "size": 3381,
+            "modifiedTime": 1555245910629,
+            "changeTime": 1555245861159,
+            "contentHash": "9abdb5768073eff72372d29073b6c92f7056e013",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/Users/brunodiaz/Documents/new-motion/new-motion/force-app/main/default/classes/OpportunityService.cls-meta.xml",
+        {
+            "sourcePath": "/Users/brunodiaz/Documents/new-motion/new-motion/force-app/main/default/classes/OpportunityService.cls-meta.xml",
+            "isDirectory": false,
+            "size": 196,
+            "modifiedTime": 1555059792336,
+            "changeTime": 1555059792336,
+            "contentHash": "a55c4200cf605ab8e06990251f13704f8a26fd6d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/brunodiaz/Documents/new-motion/new-motion/force-app/main/default/lwc",
+        {
+            "sourcePath": "/Users/brunodiaz/Documents/new-motion/new-motion/force-app/main/default/lwc",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1555054005526,
+            "changeTime": 1555054005526,
+            "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/brunodiaz/Documents/new-motion/new-motion/force-app/main/default/triggers",
+        {
+            "sourcePath": "/Users/brunodiaz/Documents/new-motion/new-motion/force-app/main/default/triggers",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1555059934528,
+            "changeTime": 1555059934528,
+            "contentHash": "e5484f4fc1a6aff2804d54c28ea54bd9e361747e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/brunodiaz/Documents/new-motion/new-motion/force-app/main/default/triggers/Opportunity.trigger",
+        {
+            "sourcePath": "/Users/brunodiaz/Documents/new-motion/new-motion/force-app/main/default/triggers/Opportunity.trigger",
+            "isDirectory": false,
+            "size": 506,
+            "modifiedTime": 1555247311108,
+            "changeTime": 1555247311108,
+            "contentHash": "b3891fc49a04185fd38b5b091428be6b1c08ae3d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/Users/brunodiaz/Documents/new-motion/new-motion/force-app/main/default/triggers/Opportunity.trigger-meta.xml",
+        {
+            "sourcePath": "/Users/brunodiaz/Documents/new-motion/new-motion/force-app/main/default/triggers/Opportunity.trigger-meta.xml",
+            "isDirectory": false,
+            "size": 191,
+            "modifiedTime": 1555059934528,
+            "changeTime": 1555059934528,
+            "contentHash": "7a6c72df4c0d92f30845eebae2861a5db91fb5ac",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/brunodiaz/Documents/new-motion/new-motion",
+        {
+            "sourcePath": "/Users/brunodiaz/Documents/new-motion/new-motion",
+            "isDirectory": true,
+            "size": 320,
+            "modifiedTime": 1555060003026,
+            "changeTime": 1555060003026,
+            "contentHash": "c076490aff59783aa559f4868b2c3d53cb886230",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/brunodiaz/Documents/new-motion/new-motion/force-app/main/default/classes/OpportunityTriggerHandler.cls",
+        {
+            "sourcePath": "/Users/brunodiaz/Documents/new-motion/new-motion/force-app/main/default/classes/OpportunityTriggerHandler.cls",
+            "isDirectory": false,
+            "size": 1829,
+            "modifiedTime": 1555246910010,
+            "changeTime": 1555246910010,
+            "contentHash": "4981cc211146f824adf7483160018d7db5262124",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/brunodiaz/Documents/new-motion/new-motion/force-app/main/default/classes/OpportunityTriggerHandler.cls-meta.xml",
+        {
+            "sourcePath": "/Users/brunodiaz/Documents/new-motion/new-motion/force-app/main/default/classes/OpportunityTriggerHandler.cls-meta.xml",
+            "isDirectory": false,
+            "size": 203,
+            "modifiedTime": 1555060729170,
+            "changeTime": 1555060729170,
+            "contentHash": "fb3ebeb7c47a3816d91383292b65f4adcfe46cbe",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/brunodiaz/Documents/new-motion/new-motion/force-app/main/default/classes/NotificationSchedule.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/brunodiaz/Documents/new-motion/new-motion/force-app/main/default/classes/NotificationSchedule.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 3572,
+            "modifiedTime": 1555248583805,
+            "changeTime": 1555248583805,
+            "contentHash": "53432fdb4376709413c392becf9a9a226edaf669"
+        }
+    ],
+    [
+        "/Users/brunodiaz/Documents/new-motion/new-motion/force-app/main/default/classes/NotificationSchedule.cls-meta.xml",
+        {
+            "sourcePath": "/Users/brunodiaz/Documents/new-motion/new-motion/force-app/main/default/classes/NotificationSchedule.cls-meta.xml",
+            "isDirectory": false,
+            "size": 198,
+            "modifiedTime": 1555078057820,
+            "changeTime": 1555078057820,
+            "contentHash": "5c3582fa37b3cc0445d34912e35eef653029ac3d",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/brunodiaz/Documents/new-motion/new-motion/force-app/main/default/globalValueSets/Language.globalValueSet-meta.xml",
+        {
+            "sourcePath": "/Users/brunodiaz/Documents/new-motion/new-motion/force-app/main/default/globalValueSets/Language.globalValueSet-meta.xml",
+            "isDirectory": false,
+            "size": 598,
+            "modifiedTime": 1555248548063,
+            "changeTime": 1555248548063,
+            "contentHash": "01ac2b17c5f6d3a1fa0eba8e5503192515447d0e",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/brunodiaz/Documents/new-motion/new-motion/force-app/main/default/standardValueSets/OpportunityStage.standardValueSet-meta.xml",
+        {
+            "sourcePath": "/Users/brunodiaz/Documents/new-motion/new-motion/force-app/main/default/standardValueSets/OpportunityStage.standardValueSet-meta.xml",
+            "isDirectory": false,
+            "size": 1949,
+            "modifiedTime": 1555248548066,
+            "changeTime": 1555248548066,
+            "contentHash": "fb2b96133d18775f34eeb7ca74f439fb05274391",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/brunodiaz/Documents/new-motion/new-motion/force-app/main/default/objects/Product2/fields/OutOfStock__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/brunodiaz/Documents/new-motion/new-motion/force-app/main/default/objects/Product2/fields/OutOfStock__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 326,
+            "modifiedTime": 1555248548069,
+            "changeTime": 1555248548069,
+            "contentHash": "bc8dd727e5463d3058c434dc238facdca6b06234",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/brunodiaz/Documents/new-motion/new-motion/force-app/main/default/objects/Opportunity/fields/InstallationDate__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/brunodiaz/Documents/new-motion/new-motion/force-app/main/default/objects/Opportunity/fields/InstallationDate__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 378,
+            "modifiedTime": 1555248548072,
+            "changeTime": 1555248548072,
+            "contentHash": "0eefe5fa8a4acb06e7625efa1ee30f8d8b807efd",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/brunodiaz/Documents/new-motion/new-motion/force-app/main/default/objects/Opportunity/fields/NotificationSent__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/brunodiaz/Documents/new-motion/new-motion/force-app/main/default/objects/Opportunity/fields/NotificationSent__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 386,
+            "modifiedTime": 1555248548073,
+            "changeTime": 1555248548073,
+            "contentHash": "8938ababea783f6eb15ba4cc5e305e7beaa9c42f",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/brunodiaz/Documents/new-motion/new-motion/force-app/main/default/objects/Contact/fields/Language__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/brunodiaz/Documents/new-motion/new-motion/force-app/main/default/objects/Contact/fields/Language__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 435,
+            "modifiedTime": 1555248548075,
+            "changeTime": 1555248548075,
+            "contentHash": "dfb9393a12e61f079396fed72c9291ce4e9cb621",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/brunodiaz/Documents/new-motion/new-motion/force-app/main/default/settings/Address.settings-meta.xml",
+        {
+            "sourcePath": "/Users/brunodiaz/Documents/new-motion/new-motion/force-app/main/default/settings/Address.settings-meta.xml",
+            "isDirectory": false,
+            "size": 184248,
+            "modifiedTime": 1555248548172,
+            "changeTime": 1555248548172,
+            "contentHash": "341ad1b9d3284b6ca5a958ffe826e51be6bc9074",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/brunodiaz/Documents/new-motion/new-motion/force-app/main/default/translations/nl_NL.translation-meta.xml",
+        {
+            "sourcePath": "/Users/brunodiaz/Documents/new-motion/new-motion/force-app/main/default/translations/nl_NL.translation-meta.xml",
+            "isDirectory": false,
+            "size": 1342,
+            "modifiedTime": 1555248548177,
+            "changeTime": 1555248548177,
+            "contentHash": "8b8916becde96b6ae84d40c220f3986059afa71a",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/brunodiaz/Documents/new-motion/new-motion/force-app/main/default/translations/en_US.translation-meta.xml",
+        {
+            "sourcePath": "/Users/brunodiaz/Documents/new-motion/new-motion/force-app/main/default/translations/en_US.translation-meta.xml",
+            "isDirectory": false,
+            "size": 1342,
+            "modifiedTime": 1555248548179,
+            "changeTime": 1555248548179,
+            "contentHash": "8b8916becde96b6ae84d40c220f3986059afa71a",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/brunodiaz/Documents/new-motion/new-motion/force-app/main/default/translations/es.translation-meta.xml",
+        {
+            "sourcePath": "/Users/brunodiaz/Documents/new-motion/new-motion/force-app/main/default/translations/es.translation-meta.xml",
+            "isDirectory": false,
+            "size": 1342,
+            "modifiedTime": 1555248548180,
+            "changeTime": 1555248548180,
+            "contentHash": "8b8916becde96b6ae84d40c220f3986059afa71a",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/brunodiaz/Documents/new-motion/new-motion/force-app/main/default/settings/Opportunity.settings-meta.xml",
+        {
+            "sourcePath": "/Users/brunodiaz/Documents/new-motion/new-motion/force-app/main/default/settings/Opportunity.settings-meta.xml",
+            "isDirectory": false,
+            "size": 434,
+            "modifiedTime": 1555248548180,
+            "changeTime": 1555248548180,
+            "contentHash": "9bdfddede885650ec0501179db2e455d0eb4f07b",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/brunodiaz/Documents/new-motion/new-motion/force-app/main/default/globalValueSets",
+        {
+            "sourcePath": "/Users/brunodiaz/Documents/new-motion/new-motion/force-app/main/default/globalValueSets",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1555248548063,
+            "changeTime": 1555248548063,
+            "contentHash": "00f02adf93abd60019d703e8772b62fac13da23d",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/brunodiaz/Documents/new-motion/new-motion/force-app/main/default/standardValueSets",
+        {
+            "sourcePath": "/Users/brunodiaz/Documents/new-motion/new-motion/force-app/main/default/standardValueSets",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1555248548066,
+            "changeTime": 1555248548066,
+            "contentHash": "c44b9f2c2c7cc8654de28b324a27e2aebe82bc5f",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/brunodiaz/Documents/new-motion/new-motion/force-app/main/default/objects/Product2/fields",
+        {
+            "sourcePath": "/Users/brunodiaz/Documents/new-motion/new-motion/force-app/main/default/objects/Product2/fields",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1555248548069,
+            "changeTime": 1555248548069,
+            "contentHash": "3dacc2acc9b0f34c7c78368727ceb302c3b6f319",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/brunodiaz/Documents/new-motion/new-motion/force-app/main/default/objects/Product2",
+        {
+            "sourcePath": "/Users/brunodiaz/Documents/new-motion/new-motion/force-app/main/default/objects/Product2",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1555248548069,
+            "changeTime": 1555248548069,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/brunodiaz/Documents/new-motion/new-motion/force-app/main/default/objects",
+        {
+            "sourcePath": "/Users/brunodiaz/Documents/new-motion/new-motion/force-app/main/default/objects",
+            "isDirectory": true,
+            "size": 160,
+            "modifiedTime": 1555248548075,
+            "changeTime": 1555248548075,
+            "contentHash": "88fc2d922e797024b10c12b9186e9483904f38c8",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/brunodiaz/Documents/new-motion/new-motion/force-app/main/default/objects/Opportunity/fields",
+        {
+            "sourcePath": "/Users/brunodiaz/Documents/new-motion/new-motion/force-app/main/default/objects/Opportunity/fields",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1555248548073,
+            "changeTime": 1555248548073,
+            "contentHash": "8fc7efe83b091817e5e66b18b5c0ed9b240cea44",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/brunodiaz/Documents/new-motion/new-motion/force-app/main/default/objects/Opportunity",
+        {
+            "sourcePath": "/Users/brunodiaz/Documents/new-motion/new-motion/force-app/main/default/objects/Opportunity",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1555248548072,
+            "changeTime": 1555248548072,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/brunodiaz/Documents/new-motion/new-motion/force-app/main/default/objects/Contact/fields",
+        {
+            "sourcePath": "/Users/brunodiaz/Documents/new-motion/new-motion/force-app/main/default/objects/Contact/fields",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1555248548075,
+            "changeTime": 1555248548075,
+            "contentHash": "cacf359e1847db6281191610001d86297349c6aa",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/brunodiaz/Documents/new-motion/new-motion/force-app/main/default/objects/Contact",
+        {
+            "sourcePath": "/Users/brunodiaz/Documents/new-motion/new-motion/force-app/main/default/objects/Contact",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1555248548075,
+            "changeTime": 1555248548075,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/brunodiaz/Documents/new-motion/new-motion/force-app/main/default/settings",
+        {
+            "sourcePath": "/Users/brunodiaz/Documents/new-motion/new-motion/force-app/main/default/settings",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1555248548180,
+            "changeTime": 1555248548180,
+            "contentHash": "202d978c3b0be7571b54b039bfc26ab613ccc513",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/brunodiaz/Documents/new-motion/new-motion/force-app/main/default/translations",
+        {
+            "sourcePath": "/Users/brunodiaz/Documents/new-motion/new-motion/force-app/main/default/translations",
+            "isDirectory": true,
+            "size": 160,
+            "modifiedTime": 1555248548180,
+            "changeTime": 1555248548180,
+            "contentHash": "6c94dea181975ab6d6e8f15da995e4221c769efe",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ]
+]
