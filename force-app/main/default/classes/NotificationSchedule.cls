@@ -5,7 +5,7 @@ global with sharing class NotificationSchedule implements Schedulable {
     public static final String VISIT_TEMPLATE_DUTCH = 'Visit_Dutch_1555239147669';
     
     // Easy Schedule
-    global void schedule(){
+    global static void schedule(){
         // Run every hour
         System.schedule('Notification Cron Job', '0 0 * * * ?', new NotificationSchedule());
     }
