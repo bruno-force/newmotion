@@ -86,7 +86,7 @@ global with sharing class NotificationSchedule implements Schedulable {
             SELECT Id, Name, InstallationDate__c, NotificationSent__c, AccountId
             FROM Opportunity
             WHERE NotificationSent__c = false
-            AND InstallationDate__c <= NEXT_N_DAYS:20
+            AND InstallationDate__c <= NEXT_N_DAYS:14
             AND AccountId != null
             LIMIT 50000
         ];

@@ -54,7 +54,7 @@ public with sharing class NotificationServiceTest {
 
             // Set Instalation Date Outside Notification Window
             Opportunity o = [SELECT Id FROM Opportunity WHERE Name = 'New Motion' LIMIT 1];
-            o.InstallationDate__c = System.today().addDays(22);
+            o.InstallationDate__c = System.today().addDays(16);
             update o;
 
             // Run Notifications
@@ -64,7 +64,7 @@ public with sharing class NotificationServiceTest {
             System.assertEquals(false, o.NotificationSent__c);
 
             // Set Instalation Date Inside Notification Window
-            o.InstallationDate__c = System.today().addDays(20);
+            o.InstallationDate__c = System.today().addDays(14);
             update o;
 
             // Run Notifications

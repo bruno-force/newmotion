@@ -15,7 +15,7 @@ When Opportunity gets 'Closed Won' Order and Order Line Items get created from O
 
 ### Notification Service
 
-It will send Visit Notification to all Opportunity Customers that have instalation date in the next 20 days and did not recieve the notification yet.
+It will send Visit Notification to all Opportunity Customers that have instalation date in the next 2 Weeks and did not recieve the notification yet.
 
 To prevent send multiple notification for the same installation a checkbox field was added to Opportunity (Notification Sent)
 
