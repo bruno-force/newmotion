@@ -31,6 +31,10 @@ public with sharing class NotificationServiceTest {
 
             NotificationSchedule.run();
 
+            Opportunity o = [SELECT Id, NotificationSent__c FROM Opportunity WHERE Name = 'New Motion' LIMIT 1];
+            
+            System.assertEquals(true, o.NotificationSent__c);
+
         } Test.stopTest();
     }
 
@@ -40,6 +44,34 @@ public with sharing class NotificationServiceTest {
         Test.startTest(); {
 
             NotificationSchedule.schedule();
+
+        } Test.stopTest();
+    }
+
+    @isTest static void notificationWindow() {
+
+        Test.startTest(); {
+
+            // Set Instalation Date Outside Notification Window
+            Opportunity o = [SELECT Id FROM Opportunity WHERE Name = 'New Motion' LIMIT 1];
+            o.InstallationDate__c = System.today().addDays(22);
+            update o;
+
+            // Run Notifications
+            NotificationSchedule.run();
+
+            o = [SELECT Id, NotificationSent__c FROM Opportunity WHERE Id =:o.Id LIMIT 1];
+            System.assertEquals(false, o.NotificationSent__c);
+
+            // Set Instalation Date Inside Notification Window
+            o.InstallationDate__c = System.today().addDays(20);
+            update o;
+
+            // Run Notifications
+            NotificationSchedule.run();
+
+            o = [SELECT Id, NotificationSent__c FROM Opportunity WHERE Id =:o.Id LIMIT 1];
+            System.assertEquals(true, o.NotificationSent__c);
 
         } Test.stopTest();
     }
